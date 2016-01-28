@@ -1,11 +1,5 @@
 import math
-# import Decimal
-
-# Consider using Decimal() instead of float()
-
-# lotWidth = float(50)
-# frontSetback = float(15) 
-# subdivSetback = float(1)
+import Decimal
 
 LOT_WIDTH = Decimal(50)
 FRONT_SETBACK = Decimal(15)
